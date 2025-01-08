@@ -1,6 +1,6 @@
 
 
-<img src="./gitcover.jpg"/>
+<img src="./cover.jpg"/>
 
 <div align="center">
   <a href="https://web.facebook.com/kamrul.islam.apurba" target="_blank">
