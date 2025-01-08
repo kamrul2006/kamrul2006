@@ -87,6 +87,4 @@
 
 
 
-### Thanks For visiting me.
-
-<img src="./tt.jpg"/>
+-----------------
