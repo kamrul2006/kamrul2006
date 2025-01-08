@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="./gitcover.jpg"/>
+
 <!--
 **kamrul2006/kamrul2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
