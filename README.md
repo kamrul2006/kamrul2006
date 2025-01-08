@@ -85,8 +85,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/kamrul2006/kamrul2006/output/snake.svg" alt="Snake animation" />
 
-###
+### Thanks For visiting me.
