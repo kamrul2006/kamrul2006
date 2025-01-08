@@ -9,8 +9,8 @@
   <a href="https://wa.me/+8801616210277" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/kamrul-islam-apurba" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/kamrul-islam-apurba/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=red&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/kamrul__2006" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -30,11 +30,21 @@
 
 ###
 
-<p align="left">I'm Kamrul Islam Apurba, from Kishoreganj, Dhaka, Bangladesh.😊<br><br>I'm a passionate frontend developer with a strong interest in building beautiful, user-friendly web applications.🌍<br>I specialize in modern tools like HTML, CSS, Javascript, Node.js, ExpressJs, React, Tailwind CSS, mongoDB, Firebase etc. to create engaging, responsive designs that bring ideas to life.👍<br><br>When I'm not coding, I enjoy exploring new technologies, learning new skills, and challenging myself to grow both personally and professionally. Let’s create something amazing together!💕💕</p>
+<br clear="both">
+
+<p align="left">I'm Kamrul Islam Apurba, from Kishoreganj, Dhaka, Bangladesh.😊<br><br>I'm a passionate frontend developer with a strong interest in building beautiful, user-friendly web applications.🌍<br><br><br>I specialize in modern tools like:<br> - HTML, <br>- CSS, <br>- Javascript, <br>- Node.js, <br>- ExpressJs, <br>- React, <br>- Tailwind CSS, <br>- mongoDB, <br>- Firebase etc. <br>to create engaging, responsive designs that bring ideas to life.👍<br><br>When I'm not coding, I enjoy exploring new technologies, learning new skills, and challenging myself to grow both personally and professionally.😇</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">Let’s create something amazing together!💕💕</h3>
+
+###
+
+<h2 align="center"></h2>
+
+###
+
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -50,7 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -66,13 +80,29 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
+</div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrul2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrul2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrul2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="148" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrul2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue&hide_border=false&order=2" height="136" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=kamrul2006&theme=onedark&column=4&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul2006&radius=16&theme=chartreuse-dark&area=true&order=5" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -84,7 +114,3 @@
 </div>
 
 ###
-
-
-
------------------
