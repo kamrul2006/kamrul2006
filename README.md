@@ -130,7 +130,7 @@ I specialize in modern tools like:
 
 ###
 
-✨ **This stack ensures high performance, maintainability, and a seamless user experience.** 🚀
+<h5 aligen="center">✨ **This stack ensures high performance, maintainability, and a seamless user experience.** 🚀</h5>
 
 <br> <br>
 
