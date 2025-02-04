@@ -1,4 +1,4 @@
-<img src="./cover.jpg"/>
+<img src="./git.jpg"/>
 
 <div align="center">
   <a href="https://web.facebook.com/kamrul.islam.apurba" target="_blank">
