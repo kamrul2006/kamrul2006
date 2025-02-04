@@ -1,37 +1,4 @@
-<img src="./cover.jpg"/>
 
-### Hi there, I'm [Kamrul Islam Apurba](https://github.com/yourusername) 👋
-
-
----
-
-## 📍 Location & Contact
-
-📌 **Location:** Kishoreganj, Bangladesh  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-📞 **Phone:** +8801XXXXXXXXX  
-
----
-
-## 🚀 About Me
-
-👨‍💻 **Frontend Developer** passionate about crafting engaging user experiences.
-
-💡 I specialize in building **modern, scalable, and highly interactive web applications**.
-
-🔧 Experienced with **React.js, Next.js, Vite, Tailwind CSS, and more**.
-
-🌌 Enthusiastic about **dark-themed, stylish, and animated web interfaces**.
-
----
-
-## 📌 Current Activities
-
-- 🚀 Exploring **Next.js** and enhancing my **frontend development skills**.
-- 🏗️ Working on a **tourism website project**.
-- 📝 Learning about **web performance optimization**.
-
----
 
 ## 🛠 Tech Stack
 
@@ -103,9 +70,6 @@
   <a href="https://x.com/kamrul__2006" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-   <a href="https://kamrul-islam-apurba.netlify.app/">
-    <img src="(https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)" height="25" alt="twitter logo"  />
-  </a>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamrulislamapurba@gmail.com)
 </div>
@@ -126,8 +90,8 @@
 ###
 
 <p align="left">I'm Kamrul Islam Apurba, from Kishoreganj, Dhaka, Bangladesh.😊<br>
-  📧 Email: kamrulislamapurba@gamil.com
-📞 Phone: +8801616210277 (+Whatsapp)
+ - 📧 Email: kamrulislamapurba@gamil.com <br>
+- 📞 Phone: +8801616210277 (+Whatsapp)
   <br>I'm a passionate frontend developer with a strong interest in building beautiful, user-friendly web applications.🌍<br><br>I specialize in modern tools like:<br>- HTML,<br>- CSS,<br>- Javascript,<br>- Node.js,<br>- ExpressJs,<br>- React,<br>- Tailwind CSS,<br>- mongoDB,<br>- Firebase etc.<br>to create engaging, responsive designs that bring ideas to life.👍<br><br>When I'm not coding, I enjoy exploring new technologies, learning new skills, and challenging myself to grow both personally and professionally.😇</p>
 
 ###
