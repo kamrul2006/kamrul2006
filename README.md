@@ -89,10 +89,10 @@
 
 ###
 
-<p align="left">I'm Kamrul Islam Apurba, from Kishoreganj, Dhaka, Bangladesh.😊<br>
+I'm Kamrul Islam Apurba, from Kishoreganj, Dhaka, Bangladesh.😊<br>
  - 📧 Email: kamrulislamapurba@gamil.com <br>
 - 📞 Phone: +8801616210277 (+Whatsapp)
-  <br>I'm a passionate frontend developer with a strong interest in building beautiful, user-friendly web applications.🌍<br><br>I specialize in modern tools like:<br>- HTML,<br>- CSS,<br>- Javascript,<br>- Node.js,<br>- ExpressJs,<br>- React,<br>- Tailwind CSS,<br>- mongoDB,<br>- Firebase etc.<br>to create engaging, responsive designs that bring ideas to life.👍<br><br>When I'm not coding, I enjoy exploring new technologies, learning new skills, and challenging myself to grow both personally and professionally.😇</p>
+  <br>I'm a passionate frontend developer with a strong interest in building beautiful, user-friendly web applications.🌍<br><br>I specialize in modern tools like:<br>- HTML,<br>- CSS,<br>- Javascript,<br>- Node.js,<br>- ExpressJs,<br>- React,<br>- Tailwind CSS,<br>- mongoDB,<br>- Firebase etc.<br>to create engaging, responsive designs that bring ideas to life.👍<br><br>When I'm not coding, I enjoy exploring new technologies, learning new skills, and challenging myself to grow both personally and professionally.😇
 
 ###
 
