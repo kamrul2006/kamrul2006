@@ -91,10 +91,12 @@
 
 I'm Kamrul Islam Apurba, from Kishoreganj, Dhaka, Bangladesh.😊
  - 📧 Email: kamrulislamapurba@gamil.com 
-- 📞 Phone: +8801616210277 (+Whatsapp)
-  I'm a passionate frontend developer with a strong interest in building beautiful, user-friendly web applications.🌍
-  I specialize in modern tools like:
-  - HTML,<br>- CSS,
+ - 📞 Phone: +8801616210277 (+Whatsapp)
+  
+I'm a passionate frontend developer with a strong interest in building beautiful, user-friendly web applications.🌍
+I specialize in modern tools like:
+  - HTML,
+  - CSS,
   - Javascript,
   - Node.js,
   - ExpressJs,
