@@ -1,60 +1,3 @@
-
-
-## 🛠 Tech Stack
-
-### **Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Backend & Database:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Tools & Others:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-## 🌎 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
----
-
-⭐ **Feel free to explore my repositories and drop a star if you find something interesting!** ⭐
-
-
------------
------------
--
---
---
--
-
--
-
-
 <img src="./cover.jpg"/>
 
 <div align="center">
@@ -113,7 +56,9 @@ I specialize in modern tools like:
 
 ###
 
-<p align="left"> - 🚀 Exploring Next.js and enhancing my frontend development skills.<br> - 🏗️ Working on a Tech Hunt Web.<br> - 📝 Learning about web performance optimization.</p>
+- 🚀 Exploring Next.js and enhancing my frontend development skills.
+- 🏗️ Working on a Tech Hunt Web.
+- 📝 Learning about web performance optimization.</p>
 
 ###
 
@@ -188,9 +133,12 @@ I specialize in modern tools like:
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrul2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="148" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrul2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue&hide_border=false&order=2" height="136" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrul2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrul2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
   <img src="https://github-profile-trophy.vercel.app?username=kamrul2006&theme=onedark&column=4&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul2006&radius=16&theme=chartreuse-dark&area=true&order=5" height="400" alt="activity-graph graph"  />
 </div>
 
