@@ -103,7 +103,10 @@
   <a href="https://x.com/kamrul__2006" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)(https://kamrul-islam-apurba.netlify.app/)
+   <a href="https://kamrul-islam-apurba.netlify.app/">
+    <img src="(https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)" height="25" alt="twitter logo"  />
+  </a>
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamrulislamapurba@gmail.com)
 </div>
 
