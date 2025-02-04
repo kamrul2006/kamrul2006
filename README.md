@@ -119,9 +119,9 @@
 --------------------------------------
 --------------------------------------
 --------------------------------------
-### Hi there, I'm [Kamrul Islam Apurba](https://github.com/yourusername) 👋
+### Hi there, I'm [Kamrul Islam Apurba](https://github.com/kamrul2006) 👋
 
-![Banner](https://source.unsplash.com/1600x500/?technology,coding)
+![Banner](<img src="./cover.jpg"/>)
 
 ---
 
