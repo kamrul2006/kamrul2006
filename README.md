@@ -124,7 +124,7 @@ I specialize in modern tools like:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 <br> <br>
-###
+
 
 <h2 align="center">🔥   My Stats :</h2>
 
@@ -152,4 +152,4 @@ I specialize in modern tools like:
 
 ###
 <br><br>
-<h2 align="center">⭐ **Feel free to explore my repositories and drop a star if you find something interesting!** ⭐</h2>
+<h2 align="center">⭐ Feel free to explore my repositories and drop a star if you find something interesting! ⭐</h2>
