@@ -65,41 +65,70 @@ I specialize in modern tools like:
 <h3 align="center">Let’s create something amazing together!💕💕</h3>
 
 ###
+<br><br>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-# 🛠️ Tech Stack  
+###
 
-## 🚀 Frontend  
+<h4 align="left">🚀 Frontend</h4>
 
+###
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" width="50" title="HTML5">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="50" title="CSS3">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50" title="JavaScript">
-  <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="50" title="TailwindCSS">
-  <img src="https://vitejs.dev/logo.svg" width="50" title="Vite.js">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" title="React.js">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50" title="Next.js">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="50" title="Node.js">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="27" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="27" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="27" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="27" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="27" alt="nextjs logo"  />
+</div>
 
-## ⚙️ Backend & Database  
+###
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="50" title="Node.js">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-express-9-1175170.png" width="50" title="Express.js">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-4-1175139.png" width="50" title="MongoDB">
-</p>
+<h4 align="left">⚙️ Backend & Database</h4>
 
-## 🛠️ Tools & Others  
+###
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="50" title="Git">
-  <img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" width="50" title="GitHub">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" width="50" title="Firebase">
-  <img src="https://cdn-icons-png.flaticon.com/128/889/889192.png" width="50" title="NPM">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="27" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="27" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="27" alt="nodejs logo"  />
+</div>
 
----
+###
+
+<h4 align="left">🛠️ Tools & Others</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
+</div>
+
+###
 
 ✨ **This stack ensures high performance, maintainability, and a seamless user experience.** 🚀
 
