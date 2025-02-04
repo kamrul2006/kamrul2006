@@ -119,51 +119,68 @@
 --------------------------------------
 --------------------------------------
 --------------------------------------
-### Hi there, I'm [Kamrul Islam Apurba](https://github.com/kamrul2006) 👋
+### Hi there, I'm [Kamrul Islam Apurba](https://github.com/yourusername) 👋
 
-![Banner](<img src="./cover.jpg"/>)
-
----
-
-### 🚀 About Me
-
-- 🎨 **Frontend Developer** passionate about crafting engaging user experiences.
-- ⚛️ Experienced with **React.js, Next.js, Vite, Tailwind CSS** & more.
-- 💾 Building robust backend solutions with **Express & MongoDB** (without Mongoose!).
-- 🌌 Love creating **dark-themed, stylish & animated** web applications.
-- 📍 Based in **Kishoreganj, Bangladesh**
+![Banner](https://source.unsplash.com/1600x500/?technology,coding,developer)
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 About Me
 
+🎨 **Frontend Developer** passionate about crafting engaging user experiences.
+
+💡 I love building **modern, scalable, and highly interactive web applications**.
+
+🔧 Experienced with **React.js, Next.js, Vite, Tailwind CSS, and more**.
+
+🖥️ Adept in backend technologies like **Express & MongoDB** (without Mongoose!).
+
+🌌 Enthusiastic about **dark-themed, stylish, and animated web interfaces**.
+
+📍 Based in **Kishoreganj, Bangladesh**.
+
+---
+
+## 🛠 Tech Stack
+
+### **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Backend & Database:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### **Tools & Others:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrul2006&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul2006e&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 🌎 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
 
 ⭐ **Feel free to explore my repositories and drop a star if you find something interesting!** ⭐
-
