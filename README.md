@@ -125,19 +125,31 @@
 
 ---
 
+## 📍 Location & Contact
+
+📌 **Location:** Kishoreganj, Bangladesh  
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📞 **Phone:** +8801XXXXXXXXX  
+
+---
+
 ## 🚀 About Me
 
-🎨 **Frontend Developer** passionate about crafting engaging user experiences.
+👨‍💻 **Frontend Developer** passionate about crafting engaging user experiences.
 
-💡 I love building **modern, scalable, and highly interactive web applications**.
+💡 I specialize in building **modern, scalable, and highly interactive web applications**.
 
 🔧 Experienced with **React.js, Next.js, Vite, Tailwind CSS, and more**.
 
-🖥️ Adept in backend technologies like **Express & MongoDB** (without Mongoose!).
-
 🌌 Enthusiastic about **dark-themed, stylish, and animated web interfaces**.
 
-📍 Based in **Kishoreganj, Bangladesh**.
+---
+
+## 📌 Current Activities
+
+- 🚀 Exploring **Next.js** and enhancing my **frontend development skills**.
+- 🏗️ Working on a **tourism website project**.
+- 📝 Learning about **web performance optimization**.
 
 ---
 
@@ -176,6 +188,7 @@
 
 ## 🌎 Let's Connect
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
