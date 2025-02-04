@@ -157,8 +157,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
@@ -191,11 +190,10 @@
   <a href="https://x.com/kamrul__2006" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="kamrulislamapurba@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)(https://kamrul-islam-apurba.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamrulislamapurba@gmail.com)
 </div>
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kamrul2006.kamrul2006&"  />
@@ -211,7 +209,10 @@
 
 ###
 
-<p align="left">I'm Kamrul Islam Apurba, from Kishoreganj, Dhaka, Bangladesh.😊<br><br>I'm a passionate frontend developer with a strong interest in building beautiful, user-friendly web applications.🌍<br><br>I specialize in modern tools like:<br>- HTML,<br>- CSS,<br>- Javascript,<br>- Node.js,<br>- ExpressJs,<br>- React,<br>- Tailwind CSS,<br>- mongoDB,<br>- Firebase etc.<br>to create engaging, responsive designs that bring ideas to life.👍<br><br>When I'm not coding, I enjoy exploring new technologies, learning new skills, and challenging myself to grow both personally and professionally.😇</p>
+<p align="left">I'm Kamrul Islam Apurba, from Kishoreganj, Dhaka, Bangladesh.😊<br>
+  📧 Email: kamrulislamapurba@gamil.com
+📞 Phone: +8801616210277 (+Whatsapp)
+  <br>I'm a passionate frontend developer with a strong interest in building beautiful, user-friendly web applications.🌍<br><br>I specialize in modern tools like:<br>- HTML,<br>- CSS,<br>- Javascript,<br>- Node.js,<br>- ExpressJs,<br>- React,<br>- Tailwind CSS,<br>- mongoDB,<br>- Firebase etc.<br>to create engaging, responsive designs that bring ideas to life.👍<br><br>When I'm not coding, I enjoy exploring new technologies, learning new skills, and challenging myself to grow both personally and professionally.😇</p>
 
 ###
 
@@ -219,7 +220,7 @@
 
 ###
 
-<p align="left">* 🚀 Exploring Next.js and enhancing my frontend development skills.<br> * 🏗️ Working on a Tech Hunt Web.<br>* 📝 Learning about web performance optimization.</p>
+<p align="left"> - 🚀 Exploring Next.js and enhancing my frontend development skills.<br> - 🏗️ Working on a Tech Hunt Web.<br> - 📝 Learning about web performance optimization.</p>
 
 ###
 
@@ -231,7 +232,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -255,7 +256,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
   <img width="13" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
@@ -269,7 +270,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -306,4 +307,4 @@
 
 ###
 
-###
+⭐ **Feel free to explore my repositories and drop a star if you find something interesting!** ⭐
