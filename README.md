@@ -19,7 +19,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamrulislamapurba@gmail.com)
 </div>
 
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kamrul2006.kamrul2006&"  />
 </div>
