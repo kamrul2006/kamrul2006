@@ -164,4 +164,6 @@ I specialize in modern tools like:
 <br><br>
 <h2 align="center">⭐ Feel free to explore my repositories and drop a star if you find something interesting! ⭐</h2>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20visitng%20.&reversal=true&fontSize=40&section=footer&fontAlignY=71&animation=scaleIn&descAlignY=75"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20visitng%20.&reversal=true&fontSize=40&section=footer&fontAlignY=71&animation=scaleIn&descAlignY=75"/>
+</p>
+--------
