@@ -166,4 +166,6 @@ I specialize in modern tools like:
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20visitng%20.&reversal=true&fontSize=40&section=footer&fontAlignY=71&animation=scaleIn&descAlignY=75"/>
 </p>
+
+
 ----
