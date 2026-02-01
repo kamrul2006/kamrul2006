@@ -101,8 +101,12 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 ## 📊 Skills Meters
 
-**Frontend:**                                **Backend:**
-<kbd>██████████████░░░░ 75%</kbd>            <kbd>██████████░░░░░░░░ 60%</kbd>  
+<p align="center">
+**Frontend:**                               
+<kbd>██████████████░░░░ 75%</kbd>            
+ 
+ **Backend:**
+<kbd>██████████░░░░░░░░ 60%</kbd>  
 
 **Database:**  
 <kbd>█████████░░░░░░░░░ 55%</kbd>  
@@ -112,7 +116,7 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 **3D/WebGL & Animations:**  
 <kbd>███████░░░░░░░░░░ 35%</kbd>  
-
+</p>
 ---
 
 ## 🔥 GitHub Cyber Stats
