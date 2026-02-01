@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="./git.jpg" alt="Cyber Banner" width="100%" style="border-radius:15px; filter: brightness(1.1) contrast(1.2);"/>
+  <img src="./git.jpg" alt="Cyber Banner" width="100%" style="border-radius:20px; filter: brightness(1.1) contrast(1.2)"/>
 </div>
 
 <div align="center">
+  <!-- Social Badges -->
   <a href="https://web.facebook.com/kamrul.islam.apurba" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white&labelColor=0f0f0f" height="28"/>
   </a>
@@ -23,43 +24,48 @@
 ---
 
 <h1 align="center">
-  <span style="background: linear-gradient(90deg,#0ff,#f0f,#0f0); -webkit-background-clip: text; color: transparent; animation: neon-glow 2s infinite alternate;">Kamrul Islam Apurba 👾</span>
+  <span style="background: linear-gradient(90deg,#0ff,#f0f,#0f0); -webkit-background-clip: text; color: transparent; animation: neon-glow 2s infinite alternate;">
+    Kamrul Islam Apurba 👾
+  </span>
 </h1>
 
 <p align="center">
-Frontend Sorcerer 🧙‍♂️ | JS Hacker 💻 | Cyber Explorer 🌌  
-Coffee-powered coder ☕ | Dreaming in React ⚡
+Frontend Wizard 🧙‍♂️ | JS Hacker 💻 | Cyber Explorer 🌌 | Coffee-powered coder ☕
 </p>
 
 ---
 
-### About Me 🛸
+## 🌟 About Me
 
-Hey there! I’m **Kamrul**, a **frontend developer from Kishoreganj, Dhaka, Bangladesh**.  
-I love **crafting high-performance, user-friendly web apps** with a futuristic touch.  
+Hi! I’m **Kamrul**, a frontend dev from **Kishoreganj, Dhaka, Bangladesh**.  
+I love building **fast, responsive, futuristic web apps** that feel alive ⚡.  
 
-💡 Fun Facts:  
-- I speak **JavaScript fluently** 🤓  
-- Always experimenting with **new frameworks and tools** 🚀  
-- Obsessed with **web animations, UI micro-interactions, and performance optimization** ⚡  
-- Gamer at heart 🎮 and coffee enthusiast ☕  
+**Fun Facts:**  
+- 🟢 JS is my native language  
+- 🌐 I experiment with **React, Next.js, and WebGL**  
+- ⚡ Obsessed with **animations, micro-interactions, and UI magic**  
+- 🎮 Gamer & coffee addict ☕  
+- 🤝 Open to collaborations and mentorship  
 
-📫 Contact Me:  
-- **Email:** [kamrulislamapurba@gmail.com](mailto:kamrulislamapurba@gmail.com)  
-- **Phone/WhatsApp:** +8801616210277  
-
----
-
-### Current Missions 🚀
-
-- Exploring **Next.js + React 18** for ultra-fast SPAs  
-- Building **Tech Hunt Web**: full-stack interactive project  
-- Diving into **web performance optimization & SEO hacks**  
-- Learning **Three.js and WebGL** to create 3D web experiences  
+**Contact Me:**  
+- 📧 [Email](mailto:kamrulislamapurba@gmail.com)  
+- 📱 Phone/WhatsApp: +8801616210277  
+- 💬 DM me on [X](https://x.com/kamrul__2006)  
 
 ---
 
-### My Cyber Tech Stack 💻
+## 🚀 Current Projects & Learning Goals
+
+| Project | Tech | Status |
+|---------|------|--------|
+| Tech Hunt Web | Next.js, React, Node.js, MongoDB | In Progress 🔥 |
+| Portfolio Revamp | React, Tailwind, Three.js | Live 🌐 |
+| WebGL Experiments | Three.js | Learning ⚡ |
+| Performance Optimization Tools | Lighthouse, Chrome DevTools | Experimenting 🛠️ |
+
+---
+
+## 💻 Cyber Tech Stack
 
 <div align="center">
 
@@ -81,7 +87,7 @@ I love **crafting high-performance, user-friendly web apps** with a futuristic t
 
 <br><br>
 
-#### Tools & Magic 🔧
+#### Tools & Wizards 🔧
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
@@ -93,7 +99,26 @@ I love **crafting high-performance, user-friendly web apps** with a futuristic t
 
 ---
 
-### GitHub Cyber Stats ⚡
+## 📊 My Skills (Animated Cyber Meters)
+
+**Frontend:**  
+<kbd>██████████████░░░░░░ 75%</kbd>  
+
+**Backend:**  
+<kbd>██████████░░░░░░░░░ 60%</kbd>  
+
+**Database:**  
+<kbd>█████████░░░░░░░░░░ 55%</kbd>  
+
+**Tools & UI/UX:**  
+<kbd>█████████████░░░░░ 70%</kbd>  
+
+**Learning / WebGL & 3D:**  
+<kbd>███████░░░░░░░░░░░ 35%</kbd>  
+
+---
+
+## 🔥 GitHub Cyber Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamrul2006&show_icons=true&theme=dark&count_private=true&border_color=00ffff&hide_title=false" height="150"/>
@@ -115,7 +140,7 @@ I love **crafting high-performance, user-friendly web apps** with a futuristic t
 
 <h2 align="center">
   <span style="background: linear-gradient(90deg,#0ff,#f0f,#0f0); -webkit-background-clip: text; color: transparent; animation: neon-glow 2s infinite alternate;">
-  Let's hack the future together! 💖
+    Let's create the future together! 💖
   </span>
 </h2>
 
