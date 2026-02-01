@@ -101,11 +101,8 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 ## 📊 Skills Meters
 
-**Frontend:**  
-<kbd>██████████████░░░░ 75%</kbd>  
-
-**Backend:**  
-<kbd>██████████░░░░░░░░ 60%</kbd>  
+**Frontend:**                                **Backend:**
+<kbd>██████████████░░░░ 75%</kbd>            <kbd>██████████░░░░░░░░ 60%</kbd>  
 
 **Database:**  
 <kbd>█████████░░░░░░░░░ 55%</kbd>  
@@ -160,5 +157,5 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 </h2>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20visiting!&fontSize=40&animation=glitch"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20visiting!&fontSize=40&animation=glitch](https://capsule-render.vercel.app/api?type=waving&height=249&color=gradient&text=Thanks%20for%20Visiting.&descAlignY=54&descAlign=52&fontAlignY=61&animation=fadeIn&fontColor=black&section=footer&reversal=true&fontAlign=46)"/>
 </p>
