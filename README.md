@@ -104,16 +104,20 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 <p align="center">
 **Frontend:**                               
 <kbd>██████████████░░░░ 75%</kbd>            
- 
+ </p>
+ <p align="center">
  **Backend:**
 <kbd>██████████░░░░░░░░ 60%</kbd>  
-
+ </p>
+ <p align="center">
 **Database:**  
 <kbd>█████████░░░░░░░░░ 55%</kbd>  
-
+ </p>
+ <p align="center">
 **UI/UX & Tools:**  
 <kbd>█████████████░░░░ 70%</kbd>  
-
+ </p>
+ <p align="center">
 **3D/WebGL & Animations:**  
 <kbd>███████░░░░░░░░░░ 35%</kbd>  
 </p>
