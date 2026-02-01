@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./git.jpg" alt="Cyber Banner" width="100%" style="border-radius:20px; filter: brightness(1.1) contrast(1.2)"/>
+  <img src="./git.jpg" alt="Cyber Banner" width="100%" style="border-radius:20px; filter: brightness(1.1) contrast(1.2);"/>
 </div>
 
 <div align="center">
@@ -37,12 +37,12 @@ Frontend Wizard 🧙‍♂️ | JS Hacker 💻 | Cyber Explorer 🌌 | Coffee-po
 
 ## 🌟 About Me
 
-Hi! I’m **Kamrul**, a frontend dev from **Kishoreganj, Dhaka, Bangladesh**.  
+Hey there! I’m **Kamrul**, a frontend dev from **Kishoreganj, Dhaka, Bangladesh**.  
 I love building **fast, responsive, futuristic web apps** that feel alive ⚡.  
 
 **Fun Facts:**  
 - 🟢 JS is my native language  
-- 🌐 I experiment with **React, Next.js, and WebGL**  
+- 🌐 Experimenting with **React, Next.js, Three.js**  
 - ⚡ Obsessed with **animations, micro-interactions, and UI magic**  
 - 🎮 Gamer & coffee addict ☕  
 - 🤝 Open to collaborations and mentorship  
@@ -58,10 +58,10 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 | Project | Tech | Status |
 |---------|------|--------|
-| Tech Hunt Web | Next.js, React, Node.js, MongoDB | In Progress 🔥 |
-| Portfolio Revamp | React, Tailwind, Three.js | Live 🌐 |
-| WebGL Experiments | Three.js | Learning ⚡ |
-| Performance Optimization Tools | Lighthouse, Chrome DevTools | Experimenting 🛠️ |
+| Tech Hunt Web | Next.js, React, Node.js, MongoDB | 🔥 In Progress |
+| Portfolio Revamp | React, Tailwind, Three.js | 🌐 Live |
+| WebGL Experiments | Three.js | ⚡ Learning |
+| Performance Optimization Tools | Lighthouse, Chrome DevTools | 🛠️ Experimenting |
 
 ---
 
@@ -69,7 +69,7 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 <div align="center">
 
-#### Frontend 🌐
+### Frontend 🌐
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=0d0d0d" height="30"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=0d0d0d" height="30"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0d0d0d" height="30"/>
@@ -79,7 +79,7 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 <br><br>
 
-#### Backend & Database 🛠️
+### Backend & Database 🛠️
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&labelColor=0d0d0d" height="30"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&labelColor=0d0d0d" height="30"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=0d0d0d" height="30"/>
@@ -87,7 +87,7 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 <br><br>
 
-#### Tools & Wizards 🔧
+### Tools & Wizards 🔧
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
@@ -99,22 +99,22 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 ---
 
-## 📊 My Skills (Animated Cyber Meters)
+## 📊 Skills Meters
 
 **Frontend:**  
-<kbd>██████████████░░░░░░ 75%</kbd>  
+<kbd>██████████████░░░░ 75%</kbd>  
 
 **Backend:**  
-<kbd>██████████░░░░░░░░░ 60%</kbd>  
+<kbd>██████████░░░░░░░░ 60%</kbd>  
 
 **Database:**  
-<kbd>█████████░░░░░░░░░░ 55%</kbd>  
+<kbd>█████████░░░░░░░░░ 55%</kbd>  
 
-**Tools & UI/UX:**  
-<kbd>█████████████░░░░░ 70%</kbd>  
+**UI/UX & Tools:**  
+<kbd>█████████████░░░░ 70%</kbd>  
 
-**Learning / WebGL & 3D:**  
-<kbd>███████░░░░░░░░░░░ 35%</kbd>  
+**3D/WebGL & Animations:**  
+<kbd>███████░░░░░░░░░░ 35%</kbd>  
 
 ---
 
@@ -132,8 +132,23 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 ---
 
+## 🌐 Top Repositories (Showcase)
+
+| Repository | Description | Stars |
+|------------|-------------|-------|
+| **Portfolio** | My personal portfolio site | ⭐ 120 |
+| **Tech Hunt Web** | Full-stack interactive project | ⭐ 85 |
+| **Web Animations** | CSS + JS animations library | ⭐ 60 |
+| **Three.js Experiments** | 3D web graphics experiments | ⭐ 45 |
+
+---
+
+## 👾 Visitors & Digital Badges
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/kamrul2006/count.svg" alt="Profile Views"/>
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kamrul2006.kamrul2006" alt="Visitor Badge"/>
 </div>
 
 ---
