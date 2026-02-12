@@ -132,7 +132,6 @@ UI/UX & Tools:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kamrul2006&theme=dark&column=4&row=1" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul2006&theme=react-dark&area=true&radius=16" height="150"/>
 </div>
 
 ---
@@ -142,7 +141,7 @@ UI/UX & Tools:
 | Repository | Description | Stars |
 |------------|-------------|-------|
 | **Portfolio** | My personal portfolio site | ⭐ 120 |
-| **Tech Hunt Web** | Full-stack interactive project | ⭐ 85 |
+| **Tech Hunt Web** | Full-stack interactive project | ⭐ 85 |ও
 | **Web Animations** | CSS + JS animations library | ⭐ 60 |
 | **Three.js Experiments** | 3D web graphics experiments | ⭐ 45 |
 
