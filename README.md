@@ -2,7 +2,7 @@
   <img src="./git.jpg" alt="Cyber Banner" width="100%" style="border-radius:20px; filter: brightness(1.1) contrast(1.2);"/>
 </div>
 
-<div align="center">
+<div align="cente"> 
   
   <!-- Social Badges -->
   <a href="https://web.facebook.com/kamrul.islam.apurba" target="_blank">
