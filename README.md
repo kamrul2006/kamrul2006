@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <img src="./git.jpg" alt="Cyber Banner" width="100%" style="border-radius:20px; filter: brightness(1.1) contrast(1.2);"/>
 </div>
