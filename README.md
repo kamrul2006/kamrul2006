@@ -4,7 +4,6 @@
 
 <div align="cente"> 
 
-
   <!-- Social Badges -->
   <a href="https://web.facebook.com/kamrul.islam.apurba" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white&labelColor=0f0f0f" height="28"/>
@@ -169,5 +168,3 @@ UI/UX & Tools:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=249&color=gradient&text=Thanks%20for%20Visiting.&descAlignY=54&descAlign=52&fontAlignY=61&animation=fadeIn&fontColor=black&section=footer&reversal=true&fontAlign=46"/>
 </p>
-
-
