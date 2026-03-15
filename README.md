@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="./Ncover.jpg" alt="Cyber Banner" width="100%" style="border-radius:20px; filter: brightness(1.1) contrast(1.2);"/>
+  <img src="./Ncover.jpg" alt="Cyber Banner" width="100%" style="border-radius:50px;"/>
 </div>
+
+---
 
 <div align="cente"> 
 
