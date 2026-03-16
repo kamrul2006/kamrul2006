@@ -8,21 +8,26 @@
 
 <div align="cente"> 
   <!-- Social Badges -->
-  <a href="https://web.facebook.com/kamrul.islam.apurba" target="_blank">
+  <a align="cente" href="https://web.facebook.com/kamrul.islam.apurba" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white&labelColor=0f0f0f" height="28"/>
   </a>
-  <a href="https://wa.me/+8801616210277" target="_blank">
+  
+  <a align="cente" href="https://wa.me/+8801616210277" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white&labelColor=0f0f0f" height="28"/>
   </a>
-  <a href="https://www.linkedin.com/in/kamrul-islam-apurba-kg/" target="_blank">
+  
+  <a align="cente" href="https://www.linkedin.com/in/kamrul-islam-apurba-kg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white&labelColor=0f0f0f" height="28"/>
   </a>
-  <a href="https://x.com/kamrul__2006" target="_blank">
+  
+  <a align="cente" href="https://x.com/kamrul__2006" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white&labelColor=0f0f0f" height="28"/>
   </a>
-  <a href="mailto:kamrulislamapurba@gmail.com">
+  
+  <a align="cente" href="mailto:kamrulislamapurba@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white&labelColor=0f0f0f" height="28"/>
   </a>
+  
 </div>
 
 ---
