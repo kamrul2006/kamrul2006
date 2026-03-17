@@ -91,7 +91,8 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&labelColor=0d0d0d" height="30"/>
 
-<br><br>
+<br>
+<br>
 
 ### Backend & Database 🛠️
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&labelColor=0d0d0d" height="30"/>
@@ -99,7 +100,8 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=0d0d0d" height="30"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&labelColor=0d0d0d" height="30"/>
 
-<br><br>
+<br>
+<br>
 
 ### Tools & Wizards 🔧
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
