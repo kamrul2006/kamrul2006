@@ -4,8 +4,7 @@
   <img src="./Ncover.jpg" alt="Cyber Banner" width="100%" style="border-radius:50px;"/>
 </div>
 
----
-
+--- 
 <div align="cente"> 
   <!-- Social Badges -->
   <a align="cente" href="https://web.facebook.com/kamrul.islam.apurba" target="_blank">
