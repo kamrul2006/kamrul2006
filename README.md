@@ -183,3 +183,5 @@ UI/UX & Tools:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=249&color=gradient&text=Thanks%20for%20Visiting.&descAlignY=54&descAlign=52&fontAlignY=61&animation=fadeIn&fontColor=black&section=footer&reversal=true&fontAlign=46"/>
 </p>
+
+---
