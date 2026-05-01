@@ -174,7 +174,6 @@ UI/UX & Tools:
 
 ---
 
-
 <h2 align="center">
   <span style="background: linear-gradient(90deg,#0ff,#f0f,#0f0); -webkit-background-clip: text; color: transparent; animation: neon-glow 2s infinite alternate;">
     Let's create the future together! 💖
