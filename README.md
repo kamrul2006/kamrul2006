@@ -51,7 +51,7 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 
 **Fun Facts:**  
 - 🟢 JS is my native language  
-- 🌐 Experimenting with **React, Next.js, Three.js**  
+- 🌐 Experimenting with **React, Next.js**  
 - ⚡ Obsessed with **animations, micro-interactions, and UI magic**  
 - 🎮 Gamer & coffee addict ☕  
 - 🤝 Open to collaborations and mentorship  
@@ -68,7 +68,7 @@ I love building **fast, responsive, futuristic web apps** that feel alive ⚡.
 | Project | Tech | Status |
 |---------|------|--------|
 | Tech Hunt Web | Next.js, React, Node.js, MongoDB | 🔥 In Progress |
-| Portfolio Revamp | React, Tailwind, Three.js | 🌐 Live |
+| Portfolio Revamp | React, Tailwind | 🌐 Live |
 | WebGL Experiments | Three.js | ⚡ Learning |
 | Performance Optimization Tools | Lighthouse, Chrome DevTools | 🛠️ Experimenting |
 
