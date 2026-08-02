@@ -54,7 +54,88 @@ I also have experience developing full-stack applications with Node.js, Express.
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Recent Projects
+
+### 🛒 K-Tech
+**Tech Hunting Platform**
+
+A full-stack web application where users can discover, submit, and manage technology products. The platform includes role-based dashboards for users and moderators, making product management efficient and organized.
+
+**Key Features**
+- Product submission, update, and management
+- Moderator review system for approving, rejecting, and featuring products
+- Reported product management with detailed review options
+- Authentication and secure user access
+- Fully responsive modern interface
+
+**Tech Stack**
+React.js • Tailwind CSS • Node.js • Express.js • MongoDB • Firebase • React Router
+
+**Links**
+- 🔗 Live Demo: *(Add Live Link)*
+- 💻 GitHub: *(Add Repository Link)*
+
+---
+
+### 🏛️ K-HistoArts
+**Historical Artifacts Management Platform**
+
+A web application that allows users to explore historical artifacts, view detailed information, contribute their own artifacts, and interact with community submissions.
+
+**Key Features**
+- Browse historical artifacts
+- View detailed artifact information
+- Add and manage personal artifact entries
+- Like artifacts and track user contributions
+- Clean and user-friendly interface
+
+**Tech Stack**
+React.js • Vite • Tailwind CSS • Firebase • React Router
+
+**Links**
+- 🔗 Live Demo: *(Add Live Link)*
+- 💻 GitHub: *(Add Repository Link)*
+
+---
+
+### 🇧🇩 Shadin-Bangla 2.0
+**Digital Memorial Platform**
+
+A digital platform preserving the memories of the martyrs of the July Quota Movement in Bangladesh. The project serves as a historical archive for future generations.
+
+**Key Features**
+- Fully responsive design
+- Modern UI built with Tailwind CSS 4 and Framer Motion
+- Dynamic news cards with image modals
+- Social authentication using NextAuth
+- Google, GitHub, and Facebook login
+
+**Tech Stack**
+Next.js • Tailwind CSS • NextAuth
+
+**Links**
+- 🔗 Live Demo: *(Add Live Link)*
+- 💻 GitHub: *(Add Repository Link)*
+
+---
+
+### 🇵🇸 Free Palestine BD
+**Awareness & Information Platform**
+
+A web platform created in solidarity with Palestine, designed to spread awareness and present information through a modern and responsive interface.
+
+**Key Features**
+- Responsive design
+- Informative content presentation
+- Modern UI
+- Optimized user experience
+
+**Tech Stack**
+*(Add the technologies you used if different from your resume.)*
+
+**Links**
+- 🔗 Live Demo: *(Add Live Link)*
+- 💻 GitHub: *(Add Repository Link)*
 
 ### 🌐 Portfolio Website
 
