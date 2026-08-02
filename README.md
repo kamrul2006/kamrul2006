@@ -1,25 +1,25 @@
 # Hi, I'm Kamrul Islam Apurba 👋
 
-```{=html}
+```
 <p align="center">
 ```
-`<img src="./Ncover.jpg" width="100%" alt="Banner"/>`{=html}
-```{=html}
+`<img src="./Ncover.jpg" width="100%" alt="Banner"/>`
+```
 </p>
 ```
-```{=html}
+```
 <h3 align="center">
 ```
 Frontend Developer • React • Next.js • JavaScript • Node.js
-```{=html}
+```
 </h3>
 ```
-```{=html}
+```
 <p align="center">
 ```
 Building fast, scalable and user-friendly web applications with modern
 JavaScript technologies.
-```{=html}
+```
 </p>
 ```
 ```{=html}
