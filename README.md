@@ -1,223 +1,153 @@
 # Hi, I'm Kamrul Islam Apurba 👋
 
-### Frontend Developer | React.js | Next.js | JavaScript
+```{=html}
+<p align="center">
+```
+`<img src="./Ncover.jpg" width="100%" alt="Banner"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<h3 align="center">
+```
+Frontend Developer • React • Next.js • JavaScript • Node.js
+```{=html}
+</h3>
+```
+```{=html}
+<p align="center">
+```
+Building fast, scalable and user-friendly web applications with modern
+JavaScript technologies.
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://kiapurba.vercel.app">`{=html}`<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:kamrulislamapurba@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/kamrul-islam-apurba-kg/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/kamrul2006">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://x.com/kamrul__2006">`{=html}`<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://facebook.com/kamrul.islam.apurba">`{=html}`<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
 
-I'm a Frontend Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications. My primary focus is creating clean interfaces, scalable frontend architectures, and seamless user experiences using React and Next.js.
-
-I also have experience developing full-stack applications with Node.js, Express.js, and MongoDB, allowing me to build complete web solutions from frontend to backend.
-
----
+------------------------------------------------------------------------
 
 ## 🚀 About Me
 
-- 🌍 Based in Kishoreganj, Dhaka, Bangladesh
-- 💼 Frontend Developer specializing in React.js and Next.js
-- ⚡ Passionate about performance, accessibility, and modern UI/UX
-- 📚 Currently learning Three.js, advanced Next.js, and TypeScript
-- 🤝 Open to freelance work, collaborations, and full-time opportunities
-
----
+-   🌍 Based in Kishoreganj, Dhaka, Bangladesh
+-   💼 Frontend Developer specializing in React.js and Next.js
+-   ⚡ Passionate about building responsive, accessible and performant
+    web applications.
+-   📚 Currently learning TypeScript, Three.js and advanced Next.js.
+-   🤝 Open to freelance, collaboration and full-time opportunities.
 
 ## 🛠 Tech Stack
 
 ### Frontend
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Next.js
-- Tailwind CSS
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>`{=html}
+```{=html}
+</p>
+```
+### Backend & Database
 
-### Backend
-
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Firebase Authentication
-- NextAuth
-
-### Database
-
-- MongoDB
-- Firebase
-
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>`{=html}
+```{=html}
+</p>
+```
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Figma
-- Photoshop
-- Vercel
-
----
-
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm,postman"/>`{=html}
+```{=html}
+</p>
+```
 ## 🚀 Recent Projects
 
-### 🛒 K-Tech
-**Tech Hunting Platform**
+### 🛒 K-Tech --- Tech Hunting Platform
 
-A full-stack web application where users can discover, submit, and manage technology products. The platform includes role-based dashboards for users and moderators, making product management efficient and organized.
+-   Product submission and management
+-   Moderator approval/rejection workflow
+-   Reported content management
+-   Tech: React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase
 
-**Key Features**
-- Product submission, update, and management
-- Moderator review system for approving, rejecting, and featuring products
-- Reported product management with detailed review options
-- Authentication and secure user access
-- Fully responsive modern interface
+### 🏛️ K-HistoArts --- Historical Artifacts Platform
 
-**Tech Stack**
-React.js • Tailwind CSS • Node.js • Express.js • MongoDB • Firebase • React Router
-
-**Links**
-- 🔗 Live Demo: *(Add Live Link)*
-- 💻 GitHub: *(Add Repository Link)*
-
----
-
-### 🏛️ K-HistoArts
-**Historical Artifacts Management Platform**
-
-A web application that allows users to explore historical artifacts, view detailed information, contribute their own artifacts, and interact with community submissions.
-
-**Key Features**
-- Browse historical artifacts
-- View detailed artifact information
-- Add and manage personal artifact entries
-- Like artifacts and track user contributions
-- Clean and user-friendly interface
-
-**Tech Stack**
-React.js • Vite • Tailwind CSS • Firebase • React Router
-
-**Links**
-- 🔗 Live Demo: *(Add Live Link)*
-- 💻 GitHub: *(Add Repository Link)*
-
----
+-   Browse and contribute historical artifacts
+-   Like artifacts and manage contributions
+-   Tech: React, Vite, Tailwind CSS, Firebase
 
 ### 🇧🇩 Shadin-Bangla 2.0
-**Digital Memorial Platform**
 
-A digital platform preserving the memories of the martyrs of the July Quota Movement in Bangladesh. The project serves as a historical archive for future generations.
-
-**Key Features**
-- Fully responsive design
-- Modern UI built with Tailwind CSS 4 and Framer Motion
-- Dynamic news cards with image modals
-- Social authentication using NextAuth
-- Google, GitHub, and Facebook login
-
-**Tech Stack**
-Next.js • Tailwind CSS • NextAuth
-
-**Links**
-- 🔗 Live Demo: *(Add Live Link)*
-- 💻 GitHub: *(Add Repository Link)*
-
----
+-   Digital memorial platform
+-   Responsive UI with Next.js and Tailwind CSS
+-   Social authentication using NextAuth
 
 ### 🇵🇸 Free Palestine BD
-**Awareness & Information Platform**
 
-A web platform created in solidarity with Palestine, designed to spread awareness and present information through a modern and responsive interface.
+-   Awareness platform with responsive interface
 
-**Key Features**
-- Responsive design
-- Informative content presentation
-- Modern UI
-- Optimized user experience
+### 🌐 Portfolio
 
-**Tech Stack**
-*(Add the technologies you used if different from your resume.)*
-
-**Links**
-- 🔗 Live Demo: *(Add Live Link)*
-- 💻 GitHub: *(Add Repository Link)*
-
-### 🌐 Portfolio Website
-
-Personal portfolio showcasing my work, skills, and projects.
-
-**Tech Stack**
-
-- Next.js
-- React
-- Tailwind CSS
-
-🔗 Live Demo: https://kiapurba.vercel.app
-
----
-
-### 💻 Tech Hunt Web
-
-A full-stack web application built with React, Node.js, Express.js, and MongoDB.
-
-**Features**
-
-- Authentication
-- REST API
-- Responsive Design
-- Dashboard
-- Modern UI
-
----
+Live: https://kiapurba.vercel.app
 
 ## 📈 GitHub Stats
 
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrul2006&show_icons=true&theme=transparent&hide_border=true"/>
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=kamrul2006&show_icons=true&theme=transparent&hide_border=true"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul2006&layout=compact&theme=transparent&hide_border=true"/>`{=html}
+`<img src="https://streak-stats.demolab.com?user=kamrul2006&theme=transparent&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
+## 📊 Contribution Graph
 
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul2006&layout=compact&theme=transparent&hide_border=true"/>
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul2006&theme=github-compact&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
+## 🏆 GitHub Trophies
 
+```{=html}
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kamrul2006&theme=transparent&hide_border=true"/>
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=kamrul2006&theme=algolia&no-frame=true"/>`{=html}
+```{=html}
 </p>
-
----
-
+```
 ## 🌱 Currently Learning
 
-- TypeScript
-- Three.js
-- Advanced Next.js
-- Performance Optimization
-- Clean Architecture
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=typescript,threejs,docker"/>`{=html}
+```{=html}
+</p>
+```
+## 📫 Connect With Me
 
----
+-   🌐 Portfolio: https://kiapurba.vercel.app
+-   💼 LinkedIn: https://www.linkedin.com/in/kamrul-islam-apurba-kg/
+-   📧 Email: kamrulislamapurba@gmail.com
+-   🐙 GitHub: https://github.com/kamrul2006
 
-## 🤝 Let's Connect
-
-Portfolio  
-https://kiapurba.vercel.app
-
-LinkedIn  
-https://www.linkedin.com/in/kamrul-islam-apurba-kg/
-
-GitHub  
-https://github.com/kamrul2006
-
-Email  
-kamrulislamapurba@gmail.com
-
-Facebook  
-https://facebook.com/kamrul.islam.apurba
-
-X (Twitter)  
-https://x.com/kamrul__2006
-
----
-
-## 💬 A Quote I Believe In
-
-> "Great user experiences are built through thoughtful design, clean code, and continuous learning."
-
----
-
-Thank you for visiting my profile.
-If you like my work, feel free to connect or collaborate.
+> "Great user experiences are built through thoughtful design, clean
+> code, and continuous learning."
