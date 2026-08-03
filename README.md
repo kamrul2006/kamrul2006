@@ -14,12 +14,12 @@ Frontend Developer • React • Next.js • JavaScript • Node.js
 
 </h3>
 
-<p align="center">
+<h4 align="center">
 
 Building fast, scalable and user-friendly web applications with modern
 JavaScript technologies.
 
-</p>
+</h4>
 
 <p align="center">
 
